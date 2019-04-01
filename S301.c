@@ -4,9 +4,9 @@ void main()
 {
 int a,n,d,i,j,sum,s;
 int N,A,D;
-printf("enter the value of a");
-scanf("%d",&a);
 printf("enter the value of n");
+scanf("%d",&a);
+printf("enter the value of a");
 scanf("%d",&n);
 printf("enter the value of d");
 scanf("%d",&d);
