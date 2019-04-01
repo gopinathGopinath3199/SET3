@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int a,n,d,i,j;
+int a,n,d,i,j,sum,s;
 int N,A,D;
 printf("enter the value of a");
 scanf("%d",&a);
